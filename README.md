@@ -1,7 +1,7 @@
 # Norah-Alshebel
 <h1 align="center">Hi , I'm Norah</h1>
 <h3 align="center">A passionate frontend developer from Saudi Arabia</h3>
-<img align="right" alt="Coding" width="79" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 - 🌱 I’m currently learning **Java, C++**
 
 - 📫 How to reach me **Noraalshebel3@gmail.com**
